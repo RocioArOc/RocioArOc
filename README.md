@@ -12,7 +12,7 @@
 <br />
 <br />
 - 🌱 I’m currently learning Java, Pyton and SQL <br />
-- ⚡ What I like to do: I like reading, drawing and games <br />
+- ⚡ What I like to do: I like reading, drawing and play videogames <br />
 <br />
 <br />
 <h3 align="left">Languages and Tools:</h3>
