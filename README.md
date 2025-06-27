@@ -16,7 +16,7 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://images.seeklogo.com/logo-png/18/1/html5-without-wordmark-color-logo-png_seeklogo-184157.png" width="48" height="48" alt="Html5" />
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>
@@ -39,95 +39,55 @@
       <br>Javascript
     </td>
      <td align="center" width="96">
-      <a href="">
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-     <td align="center" width="96">
-      <a href="">
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-  </tr>
-
-  <tr>
-     <td align="center" width="96">
-      <a href="" >
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-      <td align="center" width="96">
-      <a href="">
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-      <td align="center" width="96">
-      <a href="">
+      <a href="#mysql">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="" />
       </a>
       <br>MySQL
     </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>TypeScript
-    </td>
-     <td align="center" width="96">
-        <a href="">
-            <img src="" width="48" height="48"
-                alt="" />
-        </a>
-        <br>
-    </td>
-    <td align="center" width="96">
-        <a href="">
-            <img src="" width="48"
-                height="48" alt="" />
-        </a>
-        <br>
-    </td>
-  </tr>
-   <tr>
-      <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-     <td align="center" width="96">
-      <a href="">
-        <img src="" width="48" height="48" alt="" />
-      </a>
-      <br>
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center"  width="96">
+     <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
-      <td align="center" width="96">
-      <a href="" >
-        <img src="" width="48" height="48" alt="" />
+  </tr>
+
+  <tr>
+     <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
-      <br>
+      <br>Git
     </td>
       <td align="center" width="96">
-      <a href="" >
-        <img src="" width="48" height="48" alt="" />
+      <a href="#linux">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" />
       </a>
-      <br>
+      <br>Linux
+    </td>
+      <td align="center" width="96">
+      <a href="#java">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+     <td align="center" width="96">
+      <a href="#intellij">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="48" height="48" alt="IntelliJ" />
+      </a>
+      <br>IntelliJ
+    </td>
+     <td align="center" width="96">
+        <a href="#python">
+            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <a href="#php">
+            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" height="48" alt="PHP" />
+        </a>
+        <br>PHP
     </td>
   </tr>
 </table>
