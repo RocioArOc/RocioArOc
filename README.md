@@ -118,12 +118,6 @@
  
 <br />
 <br />
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=RocioArOc&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocioArOc&theme=react&layout=compact" />
-</p>
-
-<br />
 <br />
 <br />
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
