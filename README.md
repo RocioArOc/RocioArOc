@@ -4,12 +4,15 @@
 <h3 align="center">A Full Stack student developer from Spain. I love learning new techs and using new tools.</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br />
+<h3 align="center">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/roc%C3%ADo-arias-oc%C3%B3n-475544232/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <br />
-:books: I am currently learning java
+<br />
+- 🌱 I’m currently learning Java, Pyton and SQL <br />
+- ⚡ What I like to do: I like reading, drawing and games <br />
 <br />
 <br />
 <h3 align="left">Languages and Tools:</h3>
@@ -96,8 +99,10 @@
  
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocioaroc&layout=compact)](https://github.com/rocioaroc/github-readme-stats)
-<br />
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=RocioArOc&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocioArOc&theme=react&layout=compact" />
+</p>
 
 <br />
 <br />
